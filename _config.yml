@@ -1,0 +1,8 @@
+safe: true
+pygments: true
+auto: true
+markdown: rdiscount
+com: "FreeSWITCH权威指南"
+name: "FreeSWITCH权威指南"
+description: "FreeSWITCH权威指南"
+url: "http://book.dujinfang.com"
