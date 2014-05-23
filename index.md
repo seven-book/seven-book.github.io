@@ -3,7 +3,7 @@ layout: default
 title: 首页
 ---
 
-欢迎光临《FreeSWITCH权威指南》官方网站。新书即将上市，敬请期待。
+欢迎光临《FreeSWITCH权威指南》官方网站。新书即将上市，敬请期待。关注右侧的FreeSWITCH-CN微信公众账号获取更多内容更新。&rarr;
 
 <br>
 <br>
