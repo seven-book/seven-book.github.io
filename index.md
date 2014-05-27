@@ -7,7 +7,8 @@ title: 首页
 
 <br>
 <br>
-由于本书 太“厚”了，因此将一部分附录以电子版形式发布，请在此下载<a href="/download/FSDG-Appendix.pdf" target="_blank" onclick="ga('send', 'event', 'PDF', 'download', this.href);">电子版附录</a>。
+由于本书 太“厚”了，因此将一部分附录以电子版形式发布，请在此下载<a href="/download/FSDG-Appendix.pdf" target="_blank" onclick="ga('send', 'event', 'PDF', 'download', this.href);_hmt.push(['_trackEvent', 'PDF', 'download', this.href]);
+">电子版附录</a>。
 <br>
 <br>
 
