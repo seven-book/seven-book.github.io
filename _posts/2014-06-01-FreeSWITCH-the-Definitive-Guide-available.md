@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《FreeSWITCH权威指南》震撼上市"
+title: "《FreeSWITCH权威指南》上市"
 tags:
   - "动态"
 ---

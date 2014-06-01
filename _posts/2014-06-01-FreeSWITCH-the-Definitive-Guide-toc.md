@@ -505,3 +505,13 @@ tags:
     附录D　FreeSWITCH架构详细示意图 614
 
     后记 615
+
+电子版附录（请到首页下载）：
+
+    附录E FreeSWITCH中文FAQ
+    附录F Sofia Profile参数
+    附录G 使用GSM网关连接PSTN
+    附录H Sangoma板卡及驱动的安装
+    附录I FreeSWITCH与Asterisk
+    附录J FreeSWITCH 的历史
+
