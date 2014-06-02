@@ -7,7 +7,25 @@ layout: default
 
 本页是《FreeSWITCH权威指南》的勘误页面，欢迎提意见。请直接在本页面留言，或发邮件到 book .at. dujinfang.com ，谢谢。
 
+注：Px Ly = 第x页第y行（L-y即倒数第y行）
 
+<br>
+<br>
+
+【更新时间：2014年6月1日】
+
+* P233 L-7：少了一个双引号
+
+    原为  `inline="true/>`
+
+    改为  `inline="true"/>`
+
+
+* P432 L-1： 原链接已失效
+
+    改为 <http://fisheye.freeswitch.org/browse/freeswitch-contrib/seven/lua/batch_dialer.lua?hb=true>
+
+<br>
 <br>
 <br>
 
