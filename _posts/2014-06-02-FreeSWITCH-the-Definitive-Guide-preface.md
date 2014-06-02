@@ -74,7 +74,7 @@ tags:
 * 本书部分插图由XMind、Keynote、Graphviz、mscgen等工具生成。
 * 程序代码、系统的输入输出等大部分有行号。强调部分使用粗体字。
 * 有些程序代码行较长，为适应版面，进行了人工排版。
-*提示符。对于命令行的输入输出来说，在Linux及Mac等UNIX类平台上，前面的“`$`”（或“`#`”，如果为`root`用户的话）符为操作系统命令提示符；在Windows系统上使用“`C:\`”作为操作系统命令提示符；“`freeswitch>`”作为FreeSWITCH（控制台以及`fs_cli`）系统提示符。在不至于引起混淆的情况下，可能会省略系统提示符。
+* 提示符。对于命令行的输入输出来说，在Linux及Mac等UNIX类平台上，前面的“`$`”（或“`#`”，如果为`root`用户的话）符为操作系统命令提示符；在Windows系统上使用“`C:\`”作为操作系统命令提示符；“`freeswitch>`”作为FreeSWITCH（控制台以及`fs_cli`）系统提示符。在不至于引起混淆的情况下，可能会省略系统提示符。
 
 除非有特别说明，本书中的Wiki一般指wiki.freeswitch.org ，Jira一般指jira.freeswitch.org 。
 
