@@ -8,12 +8,14 @@ title: 首页
 
     机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
 
-## 购书地址
 
 <br>
+可以从这些网站（预订）购书：
+[金书网](<http://www.golden-book.com/booksinfo/17/1753082.html>)
+| [京东](http://item.jd.com/11472569.html)
+| [亚马逊](http://www.amazon.cn/FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E6%9D%9C%E9%87%91%E6%88%BF/dp/B00KMJ2OOY/qid=1401772222&sr=8-1&keywords=FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97#)
+| [当当网](http://product.dangdang.com/23486629.html#ddclick?act=click&pos=23486629_0_0_q&cat=&key=FreeSWITCH%C8%A8%CD%FE%D6%B8%C4%CF&qinfo=1_1_48&pinfo=&minfo=&ninfo=&custid=&permid=20140210213048766540706674106335572&ref=http%3A%2F%2Fwww.dangdang.com%2F&rcount=&type=&t=1401772355000)
 
-金书网： <http://www.golden-book.com/booksinfo/17/1753082.html><br>
-京东： <http://item.jd.com/11472569.html>
 
 <br style="clear:both">
 
