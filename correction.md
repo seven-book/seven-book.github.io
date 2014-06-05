@@ -5,7 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-本页是《FreeSWITCH权威指南》的勘误页面，欢迎提意见。请直接在本页面留言，或发邮件到 book .at. dujinfang.com ，谢谢。
+本页是《FreeSWITCH权威指南》的勘误页面，欢迎提意见。请直接在本页面留言，或发邮件到 freeswitch .at. dujinfang.com ，谢谢。
 
 注：Px Ly = 第x页第y行（L-y即倒数第y行）
 
