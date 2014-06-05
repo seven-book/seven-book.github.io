@@ -119,6 +119,6 @@ FreeSWITCH<sup>TM</sup>是OSTAG的注册商标。感谢Anthony Minessale及他�
 
 ## 特别鸣谢
 
-在本书写作时，得到了国内外一些硬件和设备厂商的赞助和支持，在此表示由衷地感谢。这些公司有（排名不分先后）：Yealink（亿联）、Grandstream（潮流）、Dinstar（鼎信通达）、Sangoma（加拿大，及中国总代星昊通）、Vestec（加拿大）等。
+在本书写作时，得到了国内外一些硬件和设备厂商的赞助和支持，在此表示由衷地感谢。这些公司有（排名不分先后）：Yealink（亿联）、Grandstream（潮流）、Newrock（迅时）、Dinstar（鼎信通达）、Sangoma（加拿大，及中国总代星昊通）、Vestec（加拿大）等。
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　 杜金房

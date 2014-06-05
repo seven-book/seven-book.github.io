@@ -11,6 +11,13 @@ layout: default
 
 <br>
 <br>
+【更新时间：2014年6月5日】
+
+* PIX L-3 前言特别鸣谢部分：
+
+    原文：漏掉了 “Newrock（迅时）”
+
+    改为：Yealink(亿联)、Grandstream(潮流)、Newrock（迅时）、Dinstar(鼎信通达)、Sangoma(加拿大, 及中国总代星昊通)、Vestec(加拿大)等。
 
 【更新时间：2014年6月1日】
 
