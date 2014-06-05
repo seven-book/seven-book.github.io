@@ -13,6 +13,18 @@ layout: default
 <br>
 【更新时间：2014年6月5日】
 
+* P21 L-1
+
+    原为：MEGACO
+
+    改为 Megaco
+
+* P7 脚注六，排版多了个空格
+
+    原为：http://zh.wikipedia.org/wiki/ 长期演进技术
+
+    改为：http://zh.wikipedia.org/wiki/长期演进技术
+
 * P7 L8
 
     原为：第三方伙伴计划
