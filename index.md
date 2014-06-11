@@ -20,13 +20,6 @@ title: 首页
 
 <br style="clear:both">
 
-由于本书 太“厚”了，因此将一部分附录以电子版形式发布，电子版附录将与书的代码一并在本站提供下载，敬请关注。
-
-<!--
-请在此下载<a href="/download/FSDG-Appendix.pdf" target="_blank" onclick="ga('send', 'event', 'PDF', 'download', this.href);_hmt.push(['_trackEvent', 'PDF', 'download', this.href]);
-">电子版附录</a>。
--->
-<br>
 如果您还不了解FreeSWITCH，请到这里参观：<http://www.freeswitch.org.cn> 。
 <br>
 
