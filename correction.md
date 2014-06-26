@@ -11,6 +11,32 @@ layout: default
 
 <br>
 <br>
+【更新时间：2014年6月26日】
+
+* P409 L-5
+
+    原为：getUUID
+
+    改为：get_uuid
+
+* P409 L-4
+
+    原为：get_uuid(])
+
+    改为：get_uuid()
+
+* P81 L-11
+
+    原为：这些不接口
+
+    改为：这些接口
+
+* P150 L1
+
+    原为：Badwidth
+
+    改为：Bandwidth
+
 【更新时间：2014年6月22日】
 
 * P136 图7-6 第4、5个箭头方向画反
