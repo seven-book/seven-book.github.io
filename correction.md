@@ -13,6 +13,12 @@ layout: default
 <br>
 【更新时间：2014年6月26日】
 
+* P327 备注三 L-2
+
+    原为：FSX
+
+    改为：FXS
+
 * P409 L-5
 
     原为：getUUID
