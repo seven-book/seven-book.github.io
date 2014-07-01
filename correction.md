@@ -11,6 +11,21 @@ layout: default
 
 <br>
 <br>
+【更新时间：2014年7月1日】
+
+* P348 L-7
+
+    原为：前者基于H323plus库，后者基于Opal库
+
+    改为：前者基于Opal库，后者基于H323plus库
+
+* P16 L-3
+
+    原为：ReleaseGard
+
+    改为：ReleaseGuard
+
+
 【更新时间：2014年6月26日】
 
 * P327 备注三 L-2
