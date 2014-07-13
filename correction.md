@@ -11,19 +11,27 @@ layout: default
 
 <br>
 <br>
-【更新时间：2014年7月1日】
 
-* P386 L9
+【更新时间：2014年7月14日】
 
-    原为：时毛
 
-    改为：时髦
+* PIX L-3 前言特别鸣谢部分：
 
-* P348 L-7
+    原文：漏掉了 “Newrock（迅时）”
 
-    原为：前者基于H323plus库，后者基于Opal库
+    改为：Yealink(亿联)、Grandstream(潮流)、Newrock（迅时）、Dinstar(鼎信通达)、Sangoma(加拿大, 及中国总代星昊通)、Vestec(加拿大)等。
 
-    改为：前者基于Opal库，后者基于H323plus库
+* P7 L8
+
+    原为：第三方伙伴计划
+
+    改为：第三代合作伙伴计划
+
+* P7 脚注六，排版多了个空格
+
+    原为：http://zh.wikipedia.org/wiki/ 长期演进技术
+
+    改为：http://zh.wikipedia.org/wiki/长期演进技术
 
 * P16 L-3
 
@@ -31,14 +39,79 @@ layout: default
 
     改为：ReleaseGuard
 
+* P21 L-1
 
-【更新时间：2014年6月26日】
+    原为：MEGACO
+
+    改为 Megaco
+
+* P81 L-11
+
+    原为：这些不接口
+
+    改为：这些接口
+
+* P89 图5-1
+
+    原为：符合识别
+
+    改为 语音识别
+
+    原为：XMT接口
+
+    改为：XML接口
+
+
+* P136 图7-6 第4、5个箭头方向画反
+
+    原为：200 OK 向右，ACK 向左
+
+    改为：200 OK 向左，ACK 向右
+
+* P150 L1
+
+    原为：Badwidth
+
+    改为：Bandwidth
+
+
+* P233 L-7：少了一个双引号
+
+    原为  `inline="true/>`
+
+    改为  `inline="true"/>`
+
 
 * P327 备注三 L-2
 
     原为：FSX
 
     改为：FXS
+
+* P348 L-7
+
+    原为：前者基于H323plus库，后者基于Opal库
+
+    改为：前者基于Opal库，后者基于H323plus库
+
+* P360 L13
+
+    原为：控制端口号，默认为6001
+
+    改为：控制端口号，默认为6061
+
+* P361 L3
+
+    原为：`<action application="esf_page_group" data="esf_page_group 224.0.0.100 34567 6001"/>`
+
+    改为：`<action application="esf_page_group" data="224.0.0.100 34567 6061"/>`
+
+
+* P386 L9
+
+    原为：时毛
+
+    改为：时髦
 
 * P409 L-5
 
@@ -51,61 +124,6 @@ layout: default
     原为：get_uuid(])
 
     改为：get_uuid()
-
-* P81 L-11
-
-    原为：这些不接口
-
-    改为：这些接口
-
-* P150 L1
-
-    原为：Badwidth
-
-    改为：Bandwidth
-
-【更新时间：2014年6月22日】
-
-* P136 图7-6 第4、5个箭头方向画反
-
-    原为：200 OK 向右，ACK 向左
-
-    改为：200 OK 向左，ACK 向右
-
-【更新时间：2014年6月5日】
-
-* P21 L-1
-
-    原为：MEGACO
-
-    改为 Megaco
-
-* P7 脚注六，排版多了个空格
-
-    原为：http://zh.wikipedia.org/wiki/ 长期演进技术
-
-    改为：http://zh.wikipedia.org/wiki/长期演进技术
-
-* P7 L8
-
-    原为：第三方伙伴计划
-
-    改为：第三代合作伙伴计划
-
-* PIX L-3 前言特别鸣谢部分：
-
-    原文：漏掉了 “Newrock（迅时）”
-
-    改为：Yealink(亿联)、Grandstream(潮流)、Newrock（迅时）、Dinstar(鼎信通达)、Sangoma(加拿大, 及中国总代星昊通)、Vestec(加拿大)等。
-
-【更新时间：2014年6月1日】
-
-* P233 L-7：少了一个双引号
-
-    原为  `inline="true/>`
-
-    改为  `inline="true"/>`
-
 
 * P432 L-1： 原链接已失效
 
