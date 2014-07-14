@@ -113,6 +113,12 @@ layout: default
 
     改为：时髦
 
+* P394 L8
+
+    原为： `&eccho`
+
+    改为：`&echo`
+
 * P409 L-5
 
     原为：getUUID
