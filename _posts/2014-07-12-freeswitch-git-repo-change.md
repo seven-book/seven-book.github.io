@@ -21,5 +21,6 @@ tags:
 
     git clone https://stash.freeswitch.org/scm/fs/freeswitch.git
 
-原地址 git.freeswitch.org 已变为只读状态。
+原地址 git.freeswitch.org 已<s>变为只读状态</s>**失效**！
+
 
