@@ -12,6 +12,12 @@ layout: default
 <br>
 <br>
 
+**特别提示**：注意，严格说来这一条不算勘误，FreeSWITCH的代码库在本书出版后发生了迁移，因此书中所有 git://git.freeswitch.org/freeswitch.git 均改为 https://stash.freeswitch.org/scm/fs/freeswitch.git ，参见：[FreeSWITCH代码库地址更新](2014/07/12/freeswitch-git-repo-change.html) 。
+
+<br>
+<br>
+
+
 【更新时间：2014年8月18日】
 
 * P78 图5-1最上面
