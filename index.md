@@ -9,7 +9,7 @@ title: 首页
 
 
 <br>
-可以从这些网站（预订）购书：
+可以从这些网站购书：
 [金书网](<http://www.golden-book.com/booksinfo/17/1753082.html>)
 | [京东](http://item.jd.com/11472569.html)
 | [亚马逊](http://www.amazon.cn/FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E6%9D%9C%E9%87%91%E6%88%BF/dp/B00KMJ2OOY/qid=1401772222&sr=8-1&keywords=FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97#)（有纸质版和电子版）
