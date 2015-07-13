@@ -3,12 +3,10 @@ layout: default
 title: 首页
 ---
 
-《FreeSWITCH权威指南》新书上市，火爆热销中......
+《FreeSWITCH权威指南》：
 
     机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
 
-
-<br>
 可以从这些网站购书：
 [有赞商城](http://wap.koudaitong.com/v2/showcase/goods?alias=vmrygm92&activity=&ps=320)
 | [金书网](http://www.golden-book.com/booksinfo/17/1753082.html)
@@ -20,6 +18,10 @@ title: 首页
 | [多看](http://www.duokan.com/book/52410)（电子版）
 
 您也可以用微信扫描右侧的二维码直接购买。
+
+<br style="clear:both">
+
+《FreeSWITCH：VoIP实战》 、《FreeSWITCH互联互通》，只有电子版，请到这里购买： <https://selfstore.io/~dujinfang> 。
 
 <br style="clear:both">
 
