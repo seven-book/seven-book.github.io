@@ -21,7 +21,7 @@ title: 首页
 
 <br style="clear:both">
 
-《FreeSWITCH：VoIP实战》 、《FreeSWITCH互联互通》，只有电子版，请到这里购买： <https://selfstore.io/~dujinfang> 。
+《FreeSWITCH：VoIP实战》 、《FreeSWITCH互联互通》，只有电子版（PDF版），请到这里购买： <https://selfstore.io/~dujinfang> 。
 
 <br style="clear:both">
 
