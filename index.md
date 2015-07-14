@@ -21,8 +21,42 @@ title: 首页
 
 <br style="clear:both">
 
-《FreeSWITCH：VoIP实战》 、《FreeSWITCH互联互通》，只有电子版（PDF版），请到这里购买： <https://selfstore.io/~dujinfang> 。
+《FreeSWITCH：VoIP实战》 、《FreeSWITCH互联互通》，只有电子版（PDF版），请到这里购买： <https://selfstore.io/~dujinfang> 。**注意：** SelfStore尚不支持微信支付，如果你是在微信上访问本页，请点击右上角的按钮选择在浏览器中打开。
 
+
+<!--
+<br style="clear:both">
+<ul>
+<li class="book">
+    <div>
+        <div style="min-height:300px" onclick="$('#fsdg').toggle();$('#fsdg-buy').toggle();">
+            <img src="/images/fsdg.png" alt="FreeSWITCH权威指南" id="fsdg"/>
+            <span id="fsdg-buy" style="display:none">本书有纸版和电子版，您可以按本站顶部的说明选择您喜欢的电商网站购买。
+            </span>
+        <div style="text-align:center">（纸书+电子书）
+        </div>
+    </div>
+</li>
+<li class="book">
+    <div>
+        <a href="https://selfstore.io/products/415" target="_blank"/>
+            <div style="min-height:280px"><img src="/images/fsinterop.png" alt="FreeSWITCH互联互通"/></div>
+        </a>
+        <div style="text-align:center">（电子书）
+        </div>
+    </div>
+</li>
+<li class="book">
+    <div>
+        <a href="https://selfstore.io/products/417" target="_blank"/>
+            <div style="min-height:280px"><img src="/images/fsinaction.png" alt="FreeSWITCH：VoIP实战"/></div>
+        </a>
+        <div style="text-align:center">（电子书）
+        </div>
+    </div>
+</li>
+</ul>
+-->
 <br style="clear:both">
 
 如果您还不了解FreeSWITCH，请到这里参观：<http://www.freeswitch.org.cn> 。
