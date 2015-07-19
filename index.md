@@ -21,7 +21,7 @@ title: 首页
 
 <br style="clear:both">
 
-《FreeSWITCH：VoIP实战》 、《FreeSWITCH互联互通》，只有电子版（PDF版），请到这里购买： <https://selfstore.io/~dujinfang> 。**注意：** SelfStore尚不支持微信支付，如果你是在微信上访问本页，请点击右上角的按钮选择在浏览器中打开。
+《FreeSWITCH：VoIP实战》 、《FreeSWITCH互联互通》、《FreeSWITCH实例解析》，只有电子版（PDF版），请到这里购买： <https://selfstore.io/~dujinfang> 。**注意：** SelfStore尚不支持微信支付，如果你是在微信上访问本页，请点击右上角的按钮选择在浏览器中打开。
 
 
 <!--
