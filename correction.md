@@ -17,6 +17,93 @@ layout: default
 <br>
 <br>
 
+【更新时间：2016年3月2日】
+
+* P439 L5
+
+    原文：`say:please say yes or no`
+
+    改为：`say:'please say yes or no'`
+
+* P439 L15
+
+    原文：`<action application="play_and_detect_speech" data="say:please say yes or no detect:pocketsphinx yes_no"/>`
+
+    改为：`<action application="play_and_detect_speech" data="say:'please say yes or no' detect:pocketsphinx yes_no"/>`
+
+* P100 L1
+
+    原文：default 和 include 目录
+
+    改为：default 和 public 目录
+
+* P102 L-13
+
+    原文：`<action application="log" data="INFO The last few digits is $1"/>`
+
+    改为：`<action application="log" data="NOTICE The last few digits is $1"/>`
+
+* P130 L-4
+
+    原文：请抽空请
+
+    改为：抽空请
+
+* P146 图708
+
+    Rob应改为Bob
+
+* P148 L1
+
+    原文：会放描述协议
+
+    改为：会话描述协议
+
+* P268 L-8
+
+    原文：`<action application="set" data="hold_music=$${hold_music}"/>`
+
+    改为：`<action application="set" data="fifo_music=$${hold_music}"/>`
+
+* P283 -2, -3
+
+    原文： GSM,GSM  (重复)
+
+    改为： GSM
+
+P355 图B
+
+    原文： B(Transferee)
+
+    改为： B(Transferor)
+
+* P366 L12
+
+    原文少一个空格
+
+    改为：`<action application="bridge" data="sofia/gateway/gw${distributor(dist1)}/$1" loop="2"/>`
+
+
+
+* P318 中间位置
+
+    原文：`gw\+xyt`
+
+    改为：`gw\+gw_A`
+
+* P406 L16
+
+    原文：`print( people[ 10 ] )                      --> "Some Dude"
+`
+
+    改为：`print( people[ 7 ] )                      --> "Some Else"
+`
+
+* P409 L-11
+    原文：`local dest_number = seesion:getVariable("context")`
+    改为：`local context = seesion:getVariable("context")`
+
+
 
 【更新时间：2014年8月18日】
 
@@ -144,6 +231,12 @@ layout: default
     原为：FSX
 
     改为：FXS
+
+* P335 L10
+
+    原为：我们将按图14-8所示的拓扑结构来搭建实验环境。
+
+    改为：下面，我们首先来搭建一个简单的模拟实验环境。
 
 * P348 L-7
 
