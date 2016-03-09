@@ -17,6 +17,15 @@ layout: default
 <br>
 <br>
 
+【更新时间：2016年3月9日】
+
+* P71 L-16
+ 
+    原文：event_socekt.conf.xml
+
+    改为：event_socket.conf.xml
+
+
 【更新时间：2016年3月2日】
 
 * P439 L5
