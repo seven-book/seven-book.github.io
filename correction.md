@@ -17,6 +17,15 @@ layout: default
 <br>
 <br>
 
+【更新时间：2016年3月31日】
+
+
+* P533 L6
+
+	原文：Channnel
+
+	改为：Channel
+
 【更新时间：2016年3月2日】
 
 * P439 L5
