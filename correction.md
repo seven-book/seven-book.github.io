@@ -17,6 +17,14 @@ layout: default
 <br>
 <br>
 
+【更新时间：2016年5月2日】
+
+* P50 L3
+
+    原为：http://files.freeswitch.org/freswitch-1.2.10.tar.gz
+
+    改为：http://files.freeswitch.org/freeswitch-releases/freeswitch-1.2.10.tar.bz2
+
 【更新时间：2016年3月31日】
 
 
