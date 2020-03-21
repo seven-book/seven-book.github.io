@@ -24,6 +24,7 @@ title: 首页
 请关注右侧「小樱桃科技」微信公众号，可以找到以下电子书的购买方式。
 
 * 《FreeSWITCH VoIP实战》 
+* 《FreeSWITCH文集》
 * 《FreeSWITCH互联互通》
 * 《FreeSWITCH实例解析》
 * 《FreeSWITCH源代码分析》
