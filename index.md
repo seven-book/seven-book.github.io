@@ -21,17 +21,18 @@ title: 首页
 
 <br style="clear:both">
 
-请关注右侧「小樱桃科技」微信公众号，可以找到以下电子书的购买方式。
+请关注右侧「小樱桃科技」微信公众号，可以找到以下电子书的购买方式。这里有一些[精美封面](/2020/03/21/FreeSWITCH-ebooks.html)。
 
 * 《FreeSWITCH VoIP实战》 
 * 《FreeSWITCH文集》
 * 《FreeSWITCH互联互通》
+* 《FreeSWITCH Wireshark》
 * 《FreeSWITCH实例解析》
 * 《FreeSWITCH源代码分析》
 
 购买方式：
 
-* 小樱桃商城　－　可微信支付购买
+* 小樱桃商城　　－　可微信支付购买
 * RTS知识星球　－　付费加入后可免费阅读
 
 <br style="clear:both">
