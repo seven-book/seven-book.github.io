@@ -3,6 +3,10 @@ layout: default
 title: 首页
 ---
 
+
+![](/images/fsdg.png)
+
+
 《FreeSWITCH权威指南》：
 
     机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
