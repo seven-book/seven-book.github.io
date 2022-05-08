@@ -7,9 +7,7 @@ title: 首页
 ![](/images/fsdg.png)
 
 
-《FreeSWITCH权威指南》：
-
-    机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
+《FreeSWITCH权威指南》：机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
 
 可以从这些网站购书：
 [有赞商城](http://wap.koudaitong.com/v2/showcase/goods?alias=vmrygm92&activity=&ps=320)
