@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FreeSWITCH权威指南
+title: 杜金房的书
 email: dujinfang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  杜金房的书
   Seven Du的电子书
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-com: FreeSWITCH权威指南
-name: "FreeSWITCH权威指南"
-description: FreeSWITCH权威指南
+com: 杜金房
+name: "杜金房"
 url: "https://book.dujinfang.com"
 
 # Build settings
