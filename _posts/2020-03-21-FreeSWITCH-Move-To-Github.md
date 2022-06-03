@@ -19,4 +19,9 @@ FreeSWITCH代码库终于迁移到了Github，便于有全世界的程序员更�
 
 想直接查看源代码？看这里：<https://github.com/signalwire/freeswitch>　。
 
+还有这里和这里：
+
+- <https://www.prnewswire.com/news-releases/signalwire-announces-the-full-migration-of-the-freeswitch-codebase-to-github-300927024.html>
+- <https://lists.freeswitch.org/pipermail/freeswitch-users/2019-September/132383.html>
+
 祝玩得开心。
