@@ -7,9 +7,12 @@ title: 首页
 ![](/images/fsdg.png)
 
 
-《FreeSWITCH权威指南》：机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
+**《FreeSWITCH权威指南》**：机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
 
-可以从这些网站购书：
+**您也可以用微信扫描右侧的二维码直接购买**。
+
+也可以从这些网站购书：
+
 [有赞商城](http://wap.koudaitong.com/v2/showcase/goods?alias=vmrygm92&activity=&ps=320)
 | [金书网](http://www.golden-book.com/booksinfo/17/1753082.html)
 | [京东](http://item.jd.com/11472569.html)（纸书+电子书）
@@ -19,7 +22,6 @@ title: 首页
 | [淘宝网](http://s.taobao.com/search?q=FreeSWITCH%C8%A8%CD%FE%D6%B8%C4%CF&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=1.7274553.1997520841.1&initiative_id=tbindexz_20140604)
 | [多看](http://www.duokan.com/book/52410)（电子版）
 
-您也可以用微信扫描右侧的二维码直接购买。
 
 <br style="clear:both">
 
@@ -32,7 +34,7 @@ title: 首页
 * 《FreeSWITCH实例解析》
 * 《FreeSWITCH源代码分析》
 
-购买方式：
+**购买方式**：
 
 * 小樱桃商城　　－　可微信支付购买
 * RTS知识星球　－　付费加入后可免费阅读
@@ -42,12 +44,14 @@ title: 首页
 如果您还不了解FreeSWITCH，请到这里参观：<http://www.freeswitch.org.cn> 。
 <br>
 
-## 最新动态
 <hr>
+
+## 最新动态
+
 
 <ul class="posts">
   {% for post in site.posts limit:30 %}
-    <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li class="post-list"><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 
 </ul>
