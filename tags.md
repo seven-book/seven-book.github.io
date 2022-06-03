@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: tags
 title: {{ site.com }}
 ---
+
+<h1>所有标签</h1>
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
@@ -27,16 +29,3 @@ title: {{ site.com }}
   </li>
 {% endfor %}
 </ul>
- 
-<script src="/js/jquery-1.8.0.min.js" type="text/javascript" charset="utf-8"></script> 
-<script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
-<script language="javascript">
-$.fn.tagcloud.defaults = {
-    size: {start: 0.9, end: 2, unit: 'em'},
-      color: {start: '#e77471', end: '#f62817'}
-};
- 
-$(function () {
-    $('#tag_cloud a').tagcloud();
-});
-</script>

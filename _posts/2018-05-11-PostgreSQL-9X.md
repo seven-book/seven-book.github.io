@@ -5,12 +5,6 @@ tags:
   - "Book"
 ---
 
-# {{ page.title }}
-
-<div class="tags">
-{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
-</div>
-
 <br/>
 
 跟各位PG高手精诚协作，翻译了其中一章。

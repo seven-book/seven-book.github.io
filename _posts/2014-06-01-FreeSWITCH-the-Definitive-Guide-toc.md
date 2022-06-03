@@ -6,13 +6,6 @@ tags:
   - "动态"
 ---
 
-# {{ page.title }}
-
-<div class="tags">
-{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
-</div>
-<br>
-
     目　　录
 
     前言
@@ -515,4 +508,3 @@ tags:
     附录H Sangoma板卡及驱动的安装
     附录I FreeSWITCH与Asterisk
     附录J FreeSWITCH 的历史
-

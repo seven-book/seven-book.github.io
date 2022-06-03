@@ -5,14 +5,6 @@ tags:
   - "更新"
 ---
 
-# {{ page.title }}
-
-<div class="tags">
-{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
-</div>
-
-<br/>
-
 FreeSWITCH代码库终于迁移到了Github，便于有全世界的程序员更方便地协作。
 
 <br/>
