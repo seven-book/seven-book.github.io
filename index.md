@@ -3,18 +3,34 @@ layout: default
 title: 首页
 ---
 
+<div>
+<div class="span4">
+<a href="/2022/08/21/kamailio-in-action.html">
+<img style="align-self: center;" src="/images/kamailio-in-action.jpeg" />
+</a>
+</div>
+<div class="span4">
+<img style="align-self: center;" src="/download/FSDG.jpg" />
+</div>
+<div class="span4">
+<img style="align-self: center;" src="/images/pg9x.png" />
+</div>
+</div>
 
-![](/images/fsdg.png)
+<br style="clear: both"/>
+<br style="clear: both"/>
 
+- **《Kamailio实战》**：机械工业出版社/2022-09/杜金房 吕佳娉 著/299页/16开/ISBN：978-7-111-71247-3
 
-**《FreeSWITCH权威指南》**：机械工业出版社/2014-06-01/杜金房，张令考 著/644页/16开/ISBN：978-7-111-46626-0
+- **《FreeSWITCH权威指南》**：机械工业出版社/2014-06-01/杜金房 张令考 著/644页/16开/ISBN：978-7-111-46626-0
 
-**您也可以用微信扫描右侧或下方的小樱桃科技二维码直接购买**。
+**您也可以用微信扫描右侧或下方的小樱桃科技微信公众号二维码通过小樱桃商城直接购买**。
 
 也可以从这些网站购书：
 
-[有赞商城](http://wap.koudaitong.com/v2/showcase/goods?alias=vmrygm92&activity=&ps=320)
-| [金书网](http://www.golden-book.com/booksinfo/17/1753082.html)
+<!-- [有赞商城](http://wap.koudaitong.com/v2/showcase/goods?alias=vmrygm92&activity=&ps=320) -->
+
+[金书网](http://www.golden-book.com/booksinfo/17/1753082.html)
 | [京东](http://item.jd.com/11472569.html)（纸书+电子书）
 | [亚马逊](http://www.amazon.cn/FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E6%9D%9C%E9%87%91%E6%88%BF/dp/B00KMJ2OOY/qid=1401772222&sr=8-1&keywords=FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97#)（纸书+电子书）
 | [当当网](http://product.dangdang.com/23486629.html#ddclick?act=click&pos=23486629_0_0_q&cat=&key=FreeSWITCH%C8%A8%CD%FE%D6%B8%C4%CF&qinfo=1_1_48&pinfo=&minfo=&ninfo=&custid=&permid=20140210213048766540706674106335572&ref=http%3A%2F%2Fwww.dangdang.com%2F&rcount=&type=&t=1401772355000)（有纸质版和电子版）
