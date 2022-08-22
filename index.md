@@ -6,14 +6,14 @@ title: 首页
 <div>
 <div class="span4">
 <a href="/2022/08/21/kamailio-in-action.html">
-<img style="align-self: center;" src="/images/kamailio-in-action.jpeg" />
+<img style="align-self: center;" src="/images/kamailio-in-action.jpg" />
 </a>
 </div>
 <div class="span4">
-<img style="align-self: center;" src="/download/FSDG.jpg" />
+<img style="align-self: center;" src="/images/fsdg.jpg" />
 </div>
 <div class="span4">
-<img style="align-self: center;" src="/images/pg9x.png" />
+<img style="align-self: center;" src="/images/pg9x.jpg" />
 </div>
 </div>
 
