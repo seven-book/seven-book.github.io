@@ -26,6 +26,14 @@ title: 首页
 
 **您也可以用微信扫描右侧或下方的小樱桃科技微信公众号二维码通过小樱桃商城直接购买**。
 
+<div class="mobile-only">
+<img style="align-self: center;" src="/images/xyt.jpg" />
+<br/>
+小樱桃科技微公众号
+<br/>
+<br/>
+</div>
+
 也可以从这些网站购书：
 
 <!-- [有赞商城](http://wap.koudaitong.com/v2/showcase/goods?alias=vmrygm92&activity=&ps=320) -->
