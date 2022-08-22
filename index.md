@@ -29,7 +29,7 @@ title: 首页
 <div class="mobile-only">
 <img style="align-self: center;" src="/images/xyt.jpg" />
 <br/>
-小樱桃科技微公众号
+小樱桃科技微信公众号
 <br/>
 <br/>
 </div>

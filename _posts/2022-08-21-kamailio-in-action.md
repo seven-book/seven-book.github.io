@@ -7,6 +7,14 @@ tags:
 
 我的新书《Kamailio实战》预计于9月中旬上市。关注“小樱桃科技”微信公众号，从小樱桃商城下单，第一时间拿到书。
 
+<div class="mobile-only">
+<img style="align-self: center;" src="/images/xyt.jpg" />
+<br/>
+小樱桃科技微信公众号
+<br/>
+<br/>
+</div>
+
 预售期间购买福利：
 
 - 签名版
