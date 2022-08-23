@@ -65,6 +65,8 @@ title: 首页
 
 <br style="clear:both">
 
+如果您还不了解Kamailio，请到这里参观：<http://www.kamailio.org.cn> 。
+
 如果您还不了解FreeSWITCH，请到这里参观：<http://www.freeswitch.org.cn> 。
 <br>
 
