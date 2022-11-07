@@ -20,8 +20,10 @@ tags:
 - 签名版
 - 第一时间拿到书
 - 留下微信号进读者群
-- 免费视频教程（三个月内提供）
+- ~~免费视频教程（三个月内提供）~~
 - Kamailio培训优惠（5折，2022冬季班，线上，时间待定）
+
+**2022年11月7日更新：** ：目前新书已上市新的购书链接为：<https://mp.weixin.qq.com/s/UjD5hV3h9AZlCow9kjQUmQ> 。
 
 ![](/images/kamailio-in-action.jpeg)
 
