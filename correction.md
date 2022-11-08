@@ -5,7 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-本页是《Kamailio实战》和《FreeSWITCH权威指南》的勘误页面，欢迎提意见。请直接在本页面留言，或发邮件到 freeswitch .at. dujinfang.com ，谢谢。
+本页是《Kamailio实战》和《FreeSWITCH权威指南》的勘误页面，欢迎提意见。请发邮件到 dujinfang .at. gmail.com ，谢谢。
 
 注：`Px Ly` = 第`x`页第`y`行（`L-y`即倒数第`y`行）
 
