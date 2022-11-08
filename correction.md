@@ -11,7 +11,7 @@ layout: default
 
 ---
 
-## Kamailio实战勘误
+## 《Kamailio实战》勘误
 
 - P120 L22
     - 原文：用文替换
@@ -23,7 +23,7 @@ layout: default
 
 ---
 
-## FreeSWITCH权威指南勘误
+## 《FreeSWITCH权威指南》勘误
 
 <br>
 <br>
