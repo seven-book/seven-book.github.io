@@ -20,7 +20,7 @@ title: 首页
 <br style="clear: both"/>
 <br style="clear: both"/>
 
-- **《Kamailio实战》**：机械工业出版社/2022-09/杜金房 吕佳娉 著/299页/16开/ISBN：978-7-111-71247-3 这是[购书链接](https://mp.weixin.qq.com/s/UjD5hV3h9AZlCow9kjQUmQ)。
+- **《Kamailio实战》**：机械工业出版社/2022-09/杜金房 吕佳娉 著/299页/16开/ISBN：978-7-111-71247-3 这是[作者微信商城购书链接](https://mp.weixin.qq.com/s/UjD5hV3h9AZlCow9kjQUmQ)，以及[出版社官方天猫店购书链接](https://m.tb.cn/h.UTTTQKr?af=3)。
 
 - **《FreeSWITCH权威指南》**：机械工业出版社/2014-06-01/杜金房 张令考 著/644页/16开/ISBN：978-7-111-46626-0
 
