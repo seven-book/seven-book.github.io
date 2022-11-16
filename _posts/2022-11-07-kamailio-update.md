@@ -16,4 +16,4 @@ tags:
 
 随书附赠代码：
 
-<https://git.xswitch.cn/seven/kamailio-in-action-code>
+<https://git.xswitch.cn/book/kamailio-book-examples>

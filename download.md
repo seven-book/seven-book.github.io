@@ -3,7 +3,11 @@ layout: default
 title: 《FreeSWITCH权威指南》相关下载
 ---
 
-# 《FreeSWITCH权威指南》相关下载
+## Kamailio相关下载
+
+随书附赠代码：<https://git.xswitch.cn/book/kamailio-book-examples>
+
+## 《FreeSWITCH权威指南》相关下载
 
 <img src="/download/FSDG-big.jpg" width="480" onclick="_hmt.push(['_trackEvent', 'PDF', 'download', this.href]);ga('send', 'event', 'PDF', 'download', this.href);"/>
 
@@ -19,4 +23,3 @@ title: 《FreeSWITCH权威指南》相关下载
 ">电子版附录</a>。
 -->
 <br>
-
