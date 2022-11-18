@@ -13,6 +13,9 @@ layout: default
 
 ## 《Kamailio实战》勘误
 
+- P19 1.3.10 Record-Route
+    - [书里第19页有一个大Bug，先看这个](2022/11/18/a-big-bug-in-kamailio-book.html)。
+
 - P16 L-11 图1-11
     - 原文：事务a3结束
     - 改为：事务a3开始
