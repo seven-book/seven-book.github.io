@@ -34,7 +34,11 @@ layout: default
     - 原文：用文替换
     - 改为：用中文替换
 
-- P152 L-7:
+- P149 L-3：
+    - 原文：`allow_address_group(地址、端口)`
+    - 改为：`allow_address_group(地址, 端口)`
+
+- P152 L-7：
     - 原文：客户命令
     - 改为：客户端命令
 
