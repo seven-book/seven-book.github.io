@@ -26,7 +26,7 @@ layout: default
 
 [图1-11 事务、对话与会话关系图](images/ka-1-11.png)
 
-- P17 L11
+- P17 L7
     - 原文：**注意**：SIP中CANCEL消息与ACK消息总是比较特殊。CANCEL消息的CSeq中的序列号总是跟其将要取消（Cancel）的消息的相同，而对于ACK消息，如果它所要确认的是INVITE请求的非`2xx`响应，则ACK消息的CSeq中的序列号与对应INVITE请求的相同；如果是`2xx`响应，则不同，此时ACK被当作一个新的事务。
     - 改为：**注意**：SIP中CANCEL消息与ACK消息总是比较特殊。CANCEL和ACK消息的CSeq中的序列号总是跟其将要取消（Cancel）或证实（Acknowlege）的消息的序列号相同，虽然CANCEL以及针对`2xx`响应的ACK都是一个新的事务（针对非`2xx`的响应的ACK与该响应及前面的请求是同一个事务）。
 
