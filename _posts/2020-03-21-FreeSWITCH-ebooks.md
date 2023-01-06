@@ -16,6 +16,8 @@ FreeSWITCH电子书为PDF版，并有移动版专门针对移动端阅读优化�
 ![FreeSWITCH互联互通](/images/cover-fsinterop.png)
 ![FreeSWITCH源代码分析](/images/cover-fssrc.png)
 ![FreeSWITCH Wireshark](/images/cover-wireshark.png)
+![FreeSWITCH案例大全](/images/cover-case-study.png)
+![FreeSWITCH参考手册](/images/cover-references.png)
 
 从小樱桃科技微信公众号进入：
 
