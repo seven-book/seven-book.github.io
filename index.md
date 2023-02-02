@@ -60,6 +60,7 @@ title: 首页
 * 《FreeSWITCH源代码分析》
 * 《[FreeSWITCH案例大全](http://freeswitch.org.cn/books/case-study/)》（免费在线阅读）
 * 《[FreeSWITCH参考手册](http://freeswitch.org.cn/books/references/)》（免费在线阅读）
+* 《[技术图书排版](http://freeswitch.org.cn/books/typesetting/)》（免费在线阅读）
 
 **购买方式**：
 
