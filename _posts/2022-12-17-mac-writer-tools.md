@@ -168,4 +168,4 @@ digraph G {
 
 > **注**：由于使用的Markdown转换软件原因，这里格式与原文略有出入，关于Markdown格式可以参见[小樱桃Markdown规范](https://docs.xswitch.cn/xpedia/markdown/)。
 
-另请参见[《技术图书排版》](https://github.com/seven1240/latex)。
+另请参见[《技术图书排版》](http://freeswitch.org.cn/books/typesetting/)。
