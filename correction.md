@@ -50,6 +50,10 @@ layout: default
     - 原文：客户命令
     - 改为：客户端命令
 
+- P204 L-3：
+    - 原文：NAT位面
+    - 改为：NAT后面
+
 ---
 
 ## 《FreeSWITCH权威指南》勘误
