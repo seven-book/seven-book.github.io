@@ -4,15 +4,20 @@ title: 首页
 ---
 
 <div>
-<div class="span4">
+<div class="span6">
 <a href="/2022/08/21/kamailio-in-action.html">
 <img style="align-self: center;" src="/images/kamailio-in-action.jpg" />
 </a>
 </div>
-<div class="span4">
+<div class="span6">
 <img style="align-self: center;" src="/images/fsdg.jpg" />
 </div>
-<div class="span4">
+</div>
+<div>
+<div class="span6">
+<img style="align-self: center;" src="/images/ffmpeg-cover.jpg" />
+</div>
+<div class="span6">
 <img style="align-self: center;" src="/images/pg9x.jpg" />
 </div>
 </div>
@@ -23,6 +28,8 @@ title: 首页
 - **《Kamailio实战》**：机械工业出版社/2022-09/杜金房 吕佳娉 著/299页/16开/ISBN：978-7-111-71247-3 这是[作者微信商城购书链接](https://mp.weixin.qq.com/s/UjD5hV3h9AZlCow9kjQUmQ)（**签名版**），以及[出版社官方天猫店购书链接](https://m.tb.cn/h.U86nD34)和[出版社京东旗舰店](https://item.jd.com/10068118905078.html)。
 
 - **《FreeSWITCH权威指南》**：机械工业出版社/2014-06-01/杜金房 张令考 著/644页/16开/ISBN：978-7-111-46626-0
+
+- **《深入理解FFmpeg》**：人民邮电出版社/2023-11-01/刘歧 赵军 杜金房 赵文杰 宋韶颍 著/580页/16开/ISBN：978-7-115-621368，[目录及购买链接](/2023/10/12/ffmpeg.html)。
 
 **您也可以用微信扫描右侧或下方的小樱桃科技微信公众号二维码通过小樱桃商城直接购买**。
 
