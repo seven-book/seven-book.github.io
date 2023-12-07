@@ -25,11 +25,13 @@ title: 首页
 <br style="clear: both"/>
 <br style="clear: both"/>
 
-- **《Kamailio实战》**：机械工业出版社/2022-09/杜金房 吕佳娉 著/299页/16开/ISBN：978-7-111-71247-3 这是[作者微信商城购书链接](https://mp.weixin.qq.com/s/UjD5hV3h9AZlCow9kjQUmQ)（**签名版**），以及[出版社官方天猫店购书链接](https://m.tb.cn/h.U86nD34)和[出版社京东旗舰店](https://item.jd.com/10068118905078.html)。
+- **《Kamailio 实战》**：机械工业出版社/2022-09/杜金房 吕佳娉 著/299 页/16 开/ISBN：978-7-111-71247-3 这是[作者微信商城购书链接](https://mp.weixin.qq.com/s/UjD5hV3h9AZlCow9kjQUmQ)（**签名版**），以及[出版社官方天猫店购书链接](https://m.tb.cn/h.U86nD34)和[出版社京东旗舰店](https://item.jd.com/10068118905078.html)。
 
-- **《FreeSWITCH权威指南》**：机械工业出版社/2014-06-01/杜金房 张令考 著/644页/16开/ISBN：978-7-111-46626-0
+- **《FreeSWITCH 权威指南》**：机械工业出版社/2014-06-01/杜金房 张令考 著/644 页/16 开/ISBN：978-7-111-46626-0
 
-- **《深入理解FFmpeg》**：人民邮电出版社/2023-11-01/刘歧 赵军 杜金房 赵文杰 宋韶颍 著/580页/16开/ISBN：978-7-115-621368，[目录及购买链接](/2023/10/12/ffmpeg.html)。
+- **《深入理解 FFmpeg》**：人民邮电出版社/2023-11-01/刘歧 赵军 杜金房 赵文杰 宋韶颍 著/580 页/16 开/ISBN：978-7-115-621368，[目录及购买链接](/2023/10/12/ffmpeg.html)。
+
+- [《大道至简，给所有人看的编程课》](https://note.mowen.cn/note-intro/?noteUuid=Fj65tBfKpyvQrZEuFCmmT) ，基于微信小程序阅读和收听。
 
 **您也可以用微信扫描右侧或下方的小樱桃科技微信公众号二维码通过小樱桃商城直接购买**。
 
@@ -47,8 +49,8 @@ title: 首页
 
 [豆瓣](https://read.douban.com/reader/ebook/15303799/)（电子书）
 | [金书网](http://www.golden-book.com/booksinfo/17/1753082.html)
-| [京东](http://item.jd.com/11472569.html)（纸书+电子书）
-| [亚马逊](http://www.amazon.cn/FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E6%9D%9C%E9%87%91%E6%88%BF/dp/B00KMJ2OOY/qid=1401772222&sr=8-1&keywords=FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97#)（纸书+电子书）
+| [京东](http://item.jd.com/11472569.html)（纸书 + 电子书）
+| [亚马逊](http://www.amazon.cn/FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E6%9D%9C%E9%87%91%E6%88%BF/dp/B00KMJ2OOY/qid=1401772222&sr=8-1&keywords=FreeSWITCH%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97#)（纸书 + 电子书）
 | [当当网](http://product.dangdang.com/23486629.html#ddclick?act=click&pos=23486629_0_0_q&cat=&key=FreeSWITCH%C8%A8%CD%FE%D6%B8%C4%CF&qinfo=1_1_48&pinfo=&minfo=&ninfo=&custid=&permid=20140210213048766540706674106335572&ref=http%3A%2F%2Fwww.dangdang.com%2F&rcount=&type=&t=1401772355000)（有纸质版和电子版）
 | [互动出版网](http://product.china-pub.com/3770217)
 | [淘宝网](http://s.taobao.com/search?q=FreeSWITCH%C8%A8%CD%FE%D6%B8%C4%CF&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=1.7274553.1997520841.1&initiative_id=tbindexz_20140604)
@@ -59,26 +61,26 @@ title: 首页
 
 请关注右侧「小樱桃科技」微信公众号，可以找到以下电子书的购买方式。这里有一些[精美封面](/2020/03/21/FreeSWITCH-ebooks.html)。
 
-* 《FreeSWITCH VoIP实战》 
-* 《FreeSWITCH文集》
-* 《FreeSWITCH互联互通》
+* 《FreeSWITCH VoIP 实战》 
+* 《FreeSWITCH 文集》
+* 《FreeSWITCH 互联互通》
 * 《FreeSWITCH Wireshark》
-* 《FreeSWITCH实例解析》
-* 《FreeSWITCH源代码分析》
-* 《[FreeSWITCH案例大全](http://freeswitch.org.cn/books/case-study/)》（免费在线阅读）
-* 《[FreeSWITCH参考手册](http://freeswitch.org.cn/books/references/)》（免费在线阅读）
+* 《FreeSWITCH 实例解析》
+* 《FreeSWITCH 源代码分析》
+* 《[FreeSWITCH 案例大全](http://freeswitch.org.cn/books/case-study/)》（免费在线阅读）
+* 《[FreeSWITCH 参考手册](http://freeswitch.org.cn/books/references/)》（免费在线阅读）
 * 《[技术图书排版](http://freeswitch.org.cn/books/typesetting/)》（免费在线阅读）
 
 **购买方式**：
 
-* 小樱桃商城　　　　－　可微信支付购买
-* RTS VIP知识星球　－　付费加入后可免费阅读
+* 小樱桃商城    － 可微信支付购买
+* RTS VIP 知识星球 － 付费加入后可免费阅读
 
 <br style="clear:both">
 
-如果您还不了解Kamailio，请到这里参观：<http://www.kamailio.org.cn> 。
+如果您还不了解 Kamailio，请到这里参观：<http://www.kamailio.org.cn> 。
 
-如果您还不了解FreeSWITCH，请到这里参观：<http://www.freeswitch.org.cn> 。
+如果您还不了解 FreeSWITCH，请到这里参观：<http://www.freeswitch.org.cn> 。
 <br>
 
 <hr>
