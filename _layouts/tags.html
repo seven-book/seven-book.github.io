@@ -65,7 +65,7 @@
 							<li><a href="/2014/06/01/FreeSWITCH-the-Definitive-Guide-toc.html">目录</a></li>
 							<li><a href="/download.html">下载</a></li>
 							<li><a href="/correction.html">勘误</a></li>
-							<!-- <li><a href="/feed.xml">订阅Feed</a></li> -->
+							<!-- <li><a href="/feed.xml">订阅 Feed</a></li> -->
 							<li><a href="/about.html">关于本站</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
@@ -108,7 +108,7 @@
 				<hr/>
 				<div style="text-align:center">
 					<img src="/images/zsxq-free.png" width="180" height="180" style="margin-left:-10px"/>
-					<br>RTS实时解决方案
+					<br>RTS 实时解决方案
 				</div>
 				<hr/>
 
@@ -157,8 +157,10 @@
 	<script src="/assets/javascripts/libs/rails.js" type="text/javascript" charset="utf-8"></script>
 
 	<script type="text/javascript">
-	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1888d3565b9866d5004c03e53da075aa' type='text/javascript'%3E%3C/script%3E"));
+		if (window.location.host.indexOf("localhost") < 0) {
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1888d3565b9866d5004c03e53da075aa' type='text/javascript'%3E%3C/script%3E"));
+		}
 	</script>
 
 	<script language="javascript">
