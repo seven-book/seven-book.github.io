@@ -19,7 +19,7 @@ tags:
 
 **注意：** 本课程还在写作过程中，并没有完全写完，如果你想看一本完整的书，可以再等等。但如果你想与本课程一起成长，体验“追剧”的快感，与作者互动的快乐，现在就可以上手。
 
-[购买]((https://note.mowen.cn/note-intro/?noteUuid=Fj65tBfKpyvQrZEuFCmmT)) 后可以在**微信小程序**上阅读，评论互动，也可以加我微信并加入我的读者群。
+[购买](https://note.mowen.cn/note-intro/?noteUuid=Fj65tBfKpyvQrZEuFCmmT) 后可以在**微信小程序**上阅读，评论互动，也可以加我微信并加入我的读者群。
 
 未来，这门课也许会成为一本新书。你的支持就是对我最大的鼓励。
 
