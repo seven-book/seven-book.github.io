@@ -22,6 +22,10 @@ title: 首页
 </div>
 </div>
 
+<div class="span12">
+<img style="align-self: center;" src="/images/pro-go.jpg" />
+</div>
+
 <br style="clear: both"/>
 <br style="clear: both"/>
 
